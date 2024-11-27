@@ -1,5 +1,8 @@
 # sw-ing-2024
-## Software Engineering Project
+## Software Engineering Project Administration repository
+
+Here you will find design files, Enterprise Architect project files, and exported images related to the administration of the project.
+
 ## Links
 
 [![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge)](https://www.figma.com/design/4TgdutlqQR2SpUYsHklptM/SI-Econf?node-id=1-2&node-type=frame&t=VO6pRGvOLcDMveBy-0)
