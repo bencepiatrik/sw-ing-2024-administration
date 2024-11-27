@@ -1,5 +1,5 @@
 # sw-ing-2024
-## Software Engineering Project Administration repository
+## Software Engineering Project Administration Repository
 
 Here you will find design files, Enterprise Architect project files, and exported images related to the administration of the project.
 
