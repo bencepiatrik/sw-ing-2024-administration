@@ -1,12 +1,17 @@
 # sw-ing-2024
-## Software Engineering Project Administration Repository
+## Software Engineering Project Code Repository
 
-Here you will find design files, Enterprise Architect project files, and exported images related to the administration of the project.
+Welcome to the codebase of our ambitious project! Here lies the heart of all our hard work and brilliance. 
 
+**Navigate the branches wisely and bravely**
 ## Links
 
 [![Figma](https://img.shields.io/badge/Figma-Design-blue?style=for-the-badge)](https://www.figma.com/design/4TgdutlqQR2SpUYsHklptM/SI-Econf?node-id=1-2&node-type=frame&t=VO6pRGvOLcDMveBy-0)
-[![Code Repo](https://img.shields.io/badge/Code-Repository-orange?style=for-the-badge)](https://github.com/bencepiatrik/sw-ing-2024)
+[![Admin Repo](https://img.shields.io/badge/Admin-Repository-green?style=for-the-badge)](https://github.com/bencepiatrik/sw-ing-2024-administration)
+
+## Gitflow Branching Strategy
+
+![Gitflow Branching Strategy](https://tiagosampaio.com/wp-content/uploads/2024/01/git-flow-branching-strategy.webp)
 
 ## Meet the team
 
@@ -21,5 +26,3 @@ Here you will find design files, Enterprise Architect project files, and exporte
 
 ### Dárius Pintér
 <img align='left' src="https://i.pinimg.com/originals/78/0a/97/780a9764b3c8e5ec181fe7c27e5921df.png" width="200">
-
-
